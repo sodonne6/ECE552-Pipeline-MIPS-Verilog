@@ -11,8 +11,6 @@ The codebase is now organized into two main areas:
 
 The top-level design intent is illustrated in:
 
-- `architecture_diagram.png`
-
 ![Architecture Diagram](architecture_diagram.png)
 
 ## Repository Layout
